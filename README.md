@@ -21,7 +21,7 @@ Each notebook walkthrough explains the important code blocks, their outputs, and
 | 1 | Neural Network Playground | [YouTube](https://youtu.be/sWhZF0CTo3A) |
 | 2 | Introduction to Python | [YouTube](https://youtu.be/6k19ptvD7CU) |
 | 3 | Introduction to NumPy | [YouTube](https://youtu.be/HrvLdBJszpg) |
-| 4 | Introduction to pandas | [YouTube]() |
+| 4 | Introduction to pandas | [YouTube](https://youtu.be/Ztq_Gooso7w) |
 | 5 | Introduction to Matplotlib | [YouTube]() |
 | 6 | Basic Linear Algebra | [YouTube]() |
 | 7 | Linear Algebra — Notebook 2 | [YouTube]() |
